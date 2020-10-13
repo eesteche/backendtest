@@ -24,7 +24,7 @@
 	<h2>Instalación</h2>		
   <ul>
     <li>Iniciar el script .sql proveído por mail. Incluye los datos y el create database. La configuración de credenciales está en application.properties</li>
-    <li>Instalar maven, y navegar hasta la carpeta del proyecto. Luego mvn install</li>    
+    <li>Clonar el proyecto, luego desde el IDE mvn install. Run as spring boot app.</li>    
   </ul>	
   <h2>Acerca del proyecto</h2>
   <ul>
