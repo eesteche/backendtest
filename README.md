@@ -19,7 +19,7 @@
     <li>IDE: Spring Tool Suit 4</li>
     <li>Postman</li>
     <li>ORM: JPA Standard y Hibernate</li>
-    <li>Aplicación: Java Version 11. Apache Maven 3.6.3</li>
+    <li>Aplicación: Java Version 11(JRE 1.8.0). Apache Maven 3.6.3</li>
   </ul>			
 	<h2>Instalación</h2>		
   <ul>
