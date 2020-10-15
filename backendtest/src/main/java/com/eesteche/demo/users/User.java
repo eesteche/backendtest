@@ -41,6 +41,11 @@ public class User  {
 	private String lastName;
 	
 	
+	@Override
+	public String toString() {
+		return "User [id_user=" + id_user + ", email=" + email + ", firstName=" + firstName + ", lastName=" + lastName
+				+ ", loans=" + loans + "]";
+	}
 	public Integer getIdUser() {
 		return id_user;
 	}
