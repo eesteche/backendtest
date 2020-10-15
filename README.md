@@ -23,8 +23,8 @@
   </ul>			
 	<h2>Instalación</h2>		
   <ul>
-    <li>Iniciar el script .sql proveído por mail. Incluye los datos y el create database. La configuración de credenciales está en resources/application.properties</li>
-    <li>Clonar el proyecto, luego desde el IDE mvn install. Run as spring boot app(para spring boot suite) y en caso de usar eclipse o netbeans desde BackendtestApplication.java.</li>    
+    <li>1. Iniciar el script .sql proveído por mail (Copia en /src/resources). Incluye el create database y los datos. La configuración de credenciales está en resources/application.properties</li>
+    <li>2. Clonar el proyecto, luego desde el IDE mvn install. Run as spring boot app(para spring boot suite) y en caso de usar eclipse o netbeans desde BackendtestApplication.java.</li>    
   </ul>	
   <h2>Acerca del proyecto</h2>
   <ul>
